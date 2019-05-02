@@ -1,3 +1,5 @@
+package algorithms
+
 fun main() {
     for (a in 1..100) {
         if (a % 3 == 0 && a % 5 == 0)

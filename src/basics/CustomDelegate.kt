@@ -1,9 +1,11 @@
+package basics
+
 import kotlin.reflect.KProperty
 
 class Example {
     var p: String by Delegate()
 
-    override fun toString() = "Example Class"
+    override fun toString() = "basics.Example Class"
 }
 
 class Delegate {

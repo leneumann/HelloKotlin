@@ -1,3 +1,5 @@
+package basics
+
 fun main() {
     val map = hashMapOf<String, Int>()
     map.put("one", 1)

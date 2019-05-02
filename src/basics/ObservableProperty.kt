@@ -1,3 +1,5 @@
+package basics
+
 import kotlin.properties.Delegates
 
 class UserOb {

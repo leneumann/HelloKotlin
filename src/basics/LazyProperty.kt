@@ -1,3 +1,5 @@
+package basics
+
 class LazySample {
     val lazy: String by lazy {
         println("computed!")
